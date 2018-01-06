@@ -14,7 +14,7 @@ class Other extends React.Component {
 const Screens = TabNavigator({
   Home: { screen: Welcome,
           navigationOptions: { tabBarLabel: 'Welcome', tabBarIcon: () => (
-            <Text style={{color: 'blue'}}>W</Text>
+            <Text style={{color: 'blue'}}>v-v</Text>
           )} },
   Other: { screen: Other }
 }, {
